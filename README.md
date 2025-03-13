@@ -22,8 +22,8 @@
 ---
 
 ### 👋 Follow Me 👋  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:goenkalokesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lokesh-goenka-667226240/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:saithilak04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/lokesh-goenka-667226240/](https://www.linkedin.com/in/thilak-d-129464205/))
 
 ---
 
@@ -45,18 +45,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Lokesh8Goenka/Fine_Tuning---Llama-3.1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=Fine_Tuning---Llama-3.1&theme=dark" />
+      <a href="https://github.com/SaiThilak042k3/thilakd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiThilak042k3&repo=thilakd&theme=dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Lokesh8Goenka/Lokesh_Goenka">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=Lokesh_Goenka&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Lokesh8Goenka/storEtellor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=storEtellor&theme=dark" />
+      <a href="https://github.com/SaiThilak042k3/RPA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiThilak042k3&repo=RPA&theme=dark" />
       </a>
     </td>
   </tr>
