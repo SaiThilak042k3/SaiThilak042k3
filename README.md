@@ -16,8 +16,7 @@
 ---
 
 ### 📜 Certificates 📜  
-<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/Coursera%202YNEG9NN57U4_page-0001.jpg" width="30%" />
-<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/CDR.jpg" width="30%" />
+<img src="[https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/Coursera%202YNEG9NN57U4_page-0001.jpg](https://github.com/SaiThilak042k3/RPA/blob/main/Thilak%20D%20POWERBI.jpg)" width="30%" />
 
 ---
 
